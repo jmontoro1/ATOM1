@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Feed sobre noticias de videojuegos</title>
+    <id>urn:uuid:489e3980-6e09-11eb-9439-0242ac130002</id>
+    <updated>2022-02-22T18:30:02Z</updated>
+    <link href="https://lm.bules.eu/"/>
+    <subtitle>Canal de noticias sobre videojuegos.</subtitle>
+    <category term="Videojuegos competitivos"/>
+    <author>
+        <name>Jose Pedro Montoro Blancas</name>
+        <email>a21mobljo@iesgrancapitan.org</email>
+        <uri>https://github.com/jmontoro1</uri>
+    </author>
+
+    <entry>
+        <title>Noticias Valorant</title>
+        <id>urn:uuid:0ccbc976-6e0a-11eb-9439-0242ac130002</id>
+        <updated>2022-02-22T18:30:02Z</updated>
+        <link href="https://playvalorant.com/es-es/news/"/>
+        <rights type="html"> © 2022 Jose Pedro Montoro Blancas</rights>
+        <summary>Estas son todas las ultimas noticias.</summary>
+        <author>
+            <name>Riot Games</name>
+            <email>riotgames@gmail.com</email>
+        </author>
+        <category term="Noticias"/>
+    </entry>
+
+    <entry>
+        <title>NOTAS DE LA VERSIÓN 4.03</title>
+        <id>urn:uuid:0ccbc976-6e0a-11eb-9439-0242ac130002</id>
+        <updated>2022-02-22T18:30:02Z</updated>
+        <rights type="html"> © 2022 Jose Pedro Montoro Blancas</rights>
+        <summary>La version 4.03 ya esta aqui y podemos ver todas las novedades y gran cambios</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <h1>Cambios</h1>
+                <ul>
+                <li>Brimstone -- Mas daño</li>
+                <li>Sova -- Menos vida</li>
+                <li>Jett -- Se borra del juego</li>
+                </ul>
+            </div>
+        </content>
+        <author>
+            <name>Riot Games</name>
+            <email>riotgames@gmail.com</email>
+        </author>
+        <category term="Actualizaciones"/>
+    </entry>
+
+    <entry>
+        <title>Reglamento 1 liga Valorant</title>
+        <id>urn:uuid:5508c78a-6e09-11eb-9439-0242ac130002</id>
+        <updated>2022-02-22T18:30:02Z</updated>
+        <link href="https://esi.uclm.es/files/node_files/630/VALORANT.pdf"/>
+        <link rel="enclosure" xml:lang="es-es" title="Reglamento 1 Liga Valorant" type="application/pdf" hreflang="es-es" href="./VALORANT.pdf"/>
+        <rights type="html"> © 2022 Jose Pedro Montoro Blancas</rights>
+        <summary>Aqui tenemos el reglamento de la super esperada Liga</summary>
+        <author>
+            <name>Riot Games</name>
+            <email>riotgames@gmail.com</email>
+        </author>
+        <category term="Eventos"/>
+    </entry>
+
+    <entry>
+        <title>¡A la carga! // Lanzamiento del Episodio 4: Acto 1 de VALORANT | VALORANT</title>
+        <id>urn:uuid:f5e3023c-6e0a-11eb-9439-0242ac130002</id>
+        <updated>2022-02-22T18:30:02Z</updated>
+        <link href="https://youtu.be/J_zFMOA_frw"/>
+        <link rel="enclosure" type="audio/mpeg" title="MP4" href="https://drive.google.com/file/d/1UfLLS2lv47aj6XrBjbFQLmq3ZMoDD_i_/view?usp=sharing" length="127556438"/>
+        <rights type="html"> © 2022 Jose Pedro Montoro Blancas</rights>
+        <summary> Aqui tenemos el audio del nuevo acto!!! </summary>
+        <author>
+            <name>Riot Games</name>
+            <email>riotgames@gmail.com</email>
+        </author>
+        <category term="Videojuegos"/>
+    </entry>
+
+</feed>
